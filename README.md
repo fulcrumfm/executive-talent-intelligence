@@ -1,2 +1,2 @@
 # executive-talent-intelligence
-This repository will contain approved research articles, charts, public findings, methodologies, and outcome summaries. It will not disclose the private organization or internal EJSA project.
+Public research exploring how U.S. enterprises identify, evaluate, and recruit executive talent. An evidence-based examination of hiring technology, leadership competencies, and career strategy through applied AI, data analytics, and documented real-world outcomes.

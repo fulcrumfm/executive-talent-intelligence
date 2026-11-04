@@ -62,7 +62,7 @@ I will share the method and the results openly, using AI to assist with research
 
 Explore the research: [Executive Talent Intelligence on GitHub](https://github.com/fulcrumfm/executive-talent-intelligence).
 
-**PDF articles available for download.** The typeset Season 1 Introduction PDF is currently provided with the approved article handoff; a GitHub-hosted PDF download will be linked here once its binary file is uploaded.
+**PDF articles available for download.** [Download the Season 1 Introduction PDF](https://github.com/fulcrumfm/executive-talent-intelligence/raw/refs/heads/main/publications/season-01/ETI_S01_INTRO_ARTICLE.pdf).
 
 ## Coming next in Season 1 · Research 1:8
 

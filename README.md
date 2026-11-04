@@ -2,7 +2,7 @@
 ### An evidence-based exploration of enterprise hiring and the modern job search
 
 **Author:** Vaughn Berger  
-**Status:** Foundational documentation published; research findings, articles, experiments, and outcomes are pending.  
+**Status:** Season 1 Introduction has been published to this GitHub research archive; the remaining investigations, implementation and outcomes are pending. LinkedIn publication is not confirmed.  
 **Research reference date:** November 3, 2026.
 
 ## Why this project exists
@@ -19,6 +19,7 @@ The goal is to demonstrate a rigorous approach to problem-solving: frame a quest
 ## How to read this work
 - [Research methods](methodology/RESEARCH_STANDARDS.md)
 - [Research topics](research/INDEX.md)
+- [Season 1 · Introduction](articles/season-01/INTRODUCTION.md)
 - [Articles and publishing plan](articles/INDEX.md)
 - [Graphics and source-data rules](visualizations/README.md)
 - [Project milestones and results](results/README.md)

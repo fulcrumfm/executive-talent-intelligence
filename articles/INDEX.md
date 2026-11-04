@@ -1,13 +1,16 @@
 # Article series and editorial calendar
 
-**Public series:** Executive Talent & Enterprise Performance — research and analysis by Vaughn Berger.
+**Public series:** Executive Talent Intelligence — research and analysis by Vaughn Berger.
 
-## Planned sequence
-- **A00:** Introduction — why examine hiring from the employer's perspective?
-- **A01–A08:** One research article after each corresponding accepted research topic.
-- **A09:** Synthesis of the accepted discoveries and action plan.
-- **A10:** The actual implementation methodology; no success claims before testing.
-- **A11+:** Results, including Weeks 1–4 observations only after each observation period is complete.
+## Published
+- [Season 1 · Introduction — How Do Enterprises Identify Leaders Who Create Value?](season-01/INTRODUCTION.md) — published to the public research repository. Companion PDF download is available through the author’s approved article handoff; GitHub binary upload pending.
+
+## Season 1 — planned sequence
+- **Introduction (published):** How Do Enterprises Identify Leaders Who Create Value?
+- **Research 1:8 through 8:8:** Eight sequential investigations with source-based evidence; future articles planned.
+- **Synthesis:** Accepted findings and an action plan.
+- **Implementation:** Actual methodology; no success claims before testing.
+- **Measured results:** Week 1 onward, only after actual observation periods.
 
 This order is a dependency sequence, not a promise of daily research completion. The author intends to schedule up to one LinkedIn article per day when approved material is ready. Dates and published links are entered in the publication log after scheduling/publishing.
 
@@ -34,8 +37,8 @@ Every article requires at least one legible, original, accurately labeled data v
 ## Publication log
 | Article | Status | LinkedIn URL | Approved date | Published date |
 | --- | --- | --- | --- | --- |
-| A00 | Planned | — | — | — |
-| A01–A08 | Pending research | — | — | — |
-| A09 | Pending synthesis | — | — | — |
-| A10 | Pending implementation | — | — | — |
-| A11+ | Pending measurements | — | — | — |
+| Introduction | [Published to GitHub](season-01/INTRODUCTION.md); LinkedIn pending | — | — | 2026-11-03 (GitHub) |
+| Research 1:8–8:8 | Pending research | — | — | — |
+| Synthesis | Pending research | — | — | — |
+| Implementation | Pending research | — | — | — |
+| Weekly results | Pending measurements | — | — | — |

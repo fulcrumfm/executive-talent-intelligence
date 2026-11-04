@@ -20,6 +20,7 @@ The goal is to demonstrate a rigorous approach to problem-solving: frame a quest
 - [Research methods](methodology/RESEARCH_STANDARDS.md)
 - [Research topics](research/INDEX.md)
 - [Season 1 · Introduction](articles/season-01/INTRODUCTION.md)
+- [Download the Season 1 Introduction PDF](publications/season-01/ETI_S01_INTRO_ARTICLE.pdf)
 - [Articles and publishing plan](articles/INDEX.md)
 - [Graphics and source-data rules](visualizations/README.md)
 - [Project milestones and results](results/README.md)

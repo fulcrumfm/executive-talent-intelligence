@@ -3,7 +3,7 @@
 **Public series:** Executive Talent Intelligence — research and analysis by Vaughn Berger.
 
 ## Published
-- [Season 1 · Introduction — How Do Enterprises Identify Leaders Who Create Value?](season-01/INTRODUCTION.md) — published to the public research repository. Companion PDF download is available through the author’s approved article handoff; GitHub binary upload pending.
+- [Season 1 · Introduction — How Do Enterprises Identify Leaders Who Create Value?](season-01/INTRODUCTION.md) — published to the public research repository. [Download the PDF](../publications/season-01/ETI_S01_INTRO_ARTICLE.pdf).
 
 ## Season 1 — planned sequence
 - **Introduction (published):** How Do Enterprises Identify Leaders Who Create Value?
